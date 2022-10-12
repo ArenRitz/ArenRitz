@@ -1,6 +1,6 @@
 # Hi, I'm Aren <font size=1>a.k.a Ritz.</font>
 
-I'm a student Web Dev!
+I'm a Full Stack Web Developer!
 
 
 </br>
