@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aren!
 
-## 💻 Full Stack Developer | 🎮 Avid Gamer | 🎨 CSS & Design Enthusiast
+## 💻 Full Stack Developer 
 
 💼 I'm a recent bootcamp graduate and dedicated Full Stack Developer with a talent for designing, building, and maintaining web applications from the ground up. Skilled in JavaScript, Ruby, HTML, CSS, and SQL, as well as modern frontend and backend frameworks, I take pride in crafting responsive, user-centric, and accessible web experiences.
 
