@@ -4,7 +4,7 @@
 
 💼 I'm a recent bootcamp graduate and dedicated Full Stack Developer with a talent for designing, building, and maintaining web applications from the ground up. Skilled in JavaScript, Ruby, HTML, CSS, and SQL, as well as modern frontend and backend frameworks, I take pride in crafting responsive, user-centric, and accessible web experiences.
 
-### 🔧 My Tech Stack
+### 🔧 Technologies I've used
 
 - **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-plastic&logo=javascript) ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-plastic&logo=ruby) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-plastic&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-plastic&logo=css3) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-plastic&logo=sql)
 - **Frontend:** ![React](https://img.shields.io/badge/-React-black?style=flat-plastic&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-plastic&logo=react) ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-plastic&logo=jquery) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-plastic&logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-plastic&logo=tailwind-css) ![MUI](https://img.shields.io/badge/-MUI-black?style=flat-plastic&logo=material-ui)
