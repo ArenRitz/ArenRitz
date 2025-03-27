@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-plastic&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile) 
 
- <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-plastic&logo=google-chrome)](https://your-portfolio-url.com) -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-plastic&logo=google-chrome)](https://arendolbakian.com) 
 
 ###### Here are some bad stats! 👇
   </br>
